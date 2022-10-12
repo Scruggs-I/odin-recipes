@@ -1,1 +1,2 @@
 # odin-recipies
+In this project my goal is to create a functioning webpage that will have 4 pages. (Home + 3 Recipes) I will demonstrate my knowledge of basic HTML code to create such a webpage and my goal is to make it seemless as well as professional. I will try my best with the knowledge I have to properly organize the project into the correct files and directories. Commit messages are something I am still uncomfortable with and don't really understand but I am going to give it my best effort and cannot wait to keep diving into to my coding journey.
