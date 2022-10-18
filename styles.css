@@ -12,6 +12,10 @@ h1,.header {
     border-radius: 18px;
 }
 
+.page-list{
+    list-style-image: url('../odin-recipes/images/food-bullet-point.png');
+}
+
 h3 {
     background-color: #ffffffff;
     color: #3366cc;
